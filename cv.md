@@ -1,3 +1,3 @@
 # Lolita Garmatnaya
 ## Contacts
-## Skills
+## Hard Skills
