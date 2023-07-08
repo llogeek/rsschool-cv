@@ -217,39 +217,39 @@ p
 .code pre code {
    position: relative;
    display: block;
+   padding: 0;
    color: #333;
    background-color: #e8b2cc;
    max-width: 100%;
    min-width: 100%;
-   padding: 0;
  }
-footer 
+.container footer 
 {
    position: absolute;
-   display: flex;
-   left: 0;
    bottom: 0;
+   left: 0;
+   display: flex;
    width: 100%;
+   padding: 1%;
    justify-content: space-between;
    align-items: center;
-   padding: 1%;
    font-size: 1rem;
    color: #fff;
    background-color: #fff;
 }
  
- footer a 
+.container footer a 
  {
    text-decoration: none;
    color: #fff;
  }
  
- footer .github-icon 
+.container footer .github-icon 
  {
    margin-right: 10px;
  }
  
- .my-github 
+.container .my-github 
  {
    display: flex;
    align-items: center;
