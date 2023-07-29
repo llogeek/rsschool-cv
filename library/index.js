@@ -13,7 +13,7 @@ console.log("CofeeShop: + 6\n");
 console.log("Contacts: +6\n");
 console.log("LibraryCard: +8");
 console.log("footer: +8\n");
-console.lof("using flex: +2\n");
+console.log("using flex: +2\n");
 console.log("center: +2\n");
 console.log(".svg: +2\n");
 console.log(".jpg or .jpeg and .png: +2\n");
