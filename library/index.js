@@ -1,3 +1,4 @@
+
 console.log("header, main, footer: +2\n");
 console.log("6 <section>: +2\n");
 console.log("1 <h1>: +2\n");
@@ -21,3 +22,4 @@ console.log("favicon: +2\n");
 console.log("link to rsschool: +2\n");
 console.log("interactive elements: +2\n");
 console.log("изменение ссылки не влияет на соседние элементы: +2");
+

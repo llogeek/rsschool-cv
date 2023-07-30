@@ -1,3 +1,2 @@
-# rsschool-cv
-## https://llogeek.github.io/rsschool-cv/cv
-## https://llogeek.github.io/rsschool-cv/
+# llogeek-JSFEPRESCHOOL2023Q2
+Repositoty for @llogeek
